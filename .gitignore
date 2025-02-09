@@ -1,0 +1,33 @@
+# Ignore build output
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.so
+*.a
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build directories
+build/
+bin/
+out/
+
+# Ignore dependency directories
+deps/
+lib/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
